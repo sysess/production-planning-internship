@@ -24,6 +24,5 @@ Below is a summary of the key modules included in this repository. Each folder c
 *   **Goal:** To evaluate the capacity and operational limits of the production machinery.
 *   **Content:** Workflow analyses and data sets highlighting machine constraints and capacity utilization.
 
-### 5. Sensitivity Analysis (Work in Progress ⏳)
+### 5. Sensitivity Analysis
 *   **Goal:** To test the robustness of the proposed models against varying production scenarios, such as changes in demand or capacity drops.
-*   **Status:** Models are currently being developed and will be uploaded soon.
